@@ -1,26 +1,28 @@
-[
-  {
-    "nickname": "PowerLifter123",
-    "date": "2023-12-04",
-    "wellBeing": 8,
-    "benchPress": 120,
-    "squat": 150,
-    "deadlift": 180
-  },
-  {
-    "nickname": "IronGiant",
-    "date": "2023-12-03",
-    "wellBeing": 7,
-    "benchPress": 110,
-    "squat": 140,
-    "deadlift": 170
-  },
-  {
-    "nickname": "LiftMaster",
-    "date": "2023-12-02",
-    "wellBeing": 9,
-    "benchPress": 130,
-    "squat": 160,
-    "deadlift": 190
-  }
-]
+{
+  champions:[
+    {
+      "nickname": "PowerLifter123",
+      "date": "2023-12-04",
+      "wellBeing": 8,
+      "benchPress": 120,
+      "squat": 150,
+      "deadlift": 180
+    },
+    {
+      "nickname": "IronGiant",
+      "date": "2023-12-03",
+      "wellBeing": 7,
+      "benchPress": 110,
+      "squat": 140,
+      "deadlift": 170
+    },
+    {
+      "nickname": "LiftMaster",
+      "date": "2023-12-02",
+      "wellBeing": 9,
+      "benchPress": 130,
+      "squat": 160,
+      "deadlift": 190
+    }
+  ]
+}
