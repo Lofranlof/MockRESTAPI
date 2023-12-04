@@ -23,6 +23,86 @@
       "benchPress": 130,
       "squat": 160,
       "deadlift": 190
+    },
+    {
+    "nickname": "MuscleMachine",
+    "date": "2023-12-01",
+    "wellBeing": 8,
+    "benchPress": 125,
+    "squat": 155,
+    "deadlift": 185
+    },
+    {
+      "nickname": "GymWarrior",
+      "date": "2023-11-30",
+      "wellBeing": 7,
+      "benchPress": 115,
+      "squat": 145,
+      "deadlift": 175
+    },
+    {
+      "nickname": "StrengthChampion",
+      "date": "2023-11-29",
+      "wellBeing": 9,
+      "benchPress": 135,
+      "squat": 165,
+      "deadlift": 195
+    },
+    {
+      "nickname": "FlexMaster",
+      "date": "2023-11-28",
+      "wellBeing": 8,
+      "benchPress": 120,
+      "squat": 150,
+      "deadlift": 180
+    },
+    {
+      "nickname": "IronBeast",
+      "date": "2023-11-27",
+      "wellBeing": 7,
+      "benchPress": 110,
+      "squat": 140,
+      "deadlift": 170
+    },
+    {
+      "nickname": "PowerLifter456",
+      "date": "2023-11-26",
+      "wellBeing": 9,
+      "benchPress": 130,
+      "squat": 160,
+      "deadlift": 190
+    },
+    {
+      "nickname": "BodybuildingPro",
+      "date": "2023-11-25",
+      "wellBeing": 8,
+      "benchPress": 125,
+      "squat": 155,
+      "deadlift": 185
+    },
+    {
+      "nickname": "FitnessFreak",
+      "date": "2023-11-24",
+      "wellBeing": 7,
+      "benchPress": 115,
+      "squat": 145,
+      "deadlift": 175
+    },
+    {
+      "nickname": "MightyMuscles",
+      "date": "2023-11-23",
+      "wellBeing": 9,
+      "benchPress": 135,
+      "squat": 165,
+      "deadlift": 195
+    },
+    {
+      "nickname": "LiftLegend",
+      "date": "2023-11-22",
+      "wellBeing": 8,
+      "benchPress": 120,
+      "squat": 150,
+      "deadlift": 180
     }
   ]
 }
